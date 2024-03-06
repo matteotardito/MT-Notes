@@ -1,0 +1,26 @@
+body {
+  background: #eee;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: 0;
+}
+
+textarea {
+  all: unset;
+  color: #111;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-family: monospace;
+  font-size: 1rem;
+  padding: 1rem 2ch;
+  background: white;
+  word-wrap: break-word;
+  max-width: 64ch;
+  margin: auto;
+}
